@@ -2906,7 +2906,7 @@
 14	πιστοτάτους	πιστός	ADJ	A-	Case=Acc|Degree=Sup|Gender=Masc|Number=Plur	10	obj	_	Ref=1.117.5
 15	καὶ	καί	CCONJ	C-	_	16	cc	_	Ref=1.117.5
 16	εἶδον	ὁράω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	Ref=1.117.5
-17	δι’	διά	ADP	R-	_	18	case	_	Ref=1.117.5
+17	διʼ	διά	ADP	R-	_	18	case	_	Ref=1.117.5
 18	ἐκείνων	ἐκεῖνος	ADJ	Pd	Case=Gen|Gender=Masc|Number=Plur	16	obl	_	Ref=1.117.5
 19	καὶ	καί	CCONJ	C-	_	16	cc	_	Ref=1.117.5
 20	ἔθαψά	θάπτω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	16	conj	_	Ref=1.117.5
@@ -5407,7 +5407,7 @@
 2	δὲ	δέ	ADV	Df	_	16	discourse	_	Ref=6.4.1
 3	ὁ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	Ref=6.4.1
 4	Ἱστιαῖος	Ἱστιαῖος	PROPN	Ne	Case=Nom|Gender=Masc|Number=Sing	16	nsubj	_	Ref=6.4.1
-5	δι’	διά	ADP	R-	_	6	case	_	Ref=6.4.1
+5	διʼ	διά	ADP	R-	_	6	case	_	Ref=6.4.1
 6	ἀγγέλου	ἄγγελος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	7	obl	_	Ref=6.4.1
 7	ποιεύμενος	ποιέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	16	advcl	_	Ref=6.4.1
 8	Ἑρμίππου	Ἕρμιππος	PROPN	Ne	Case=Gen|Gender=Masc|Number=Sing	6	appos	_	Ref=6.4.1
@@ -8947,7 +8947,7 @@
 # sent_id = 20384
 # text = ἐπιστάτα δι’ ὅλης νυκτὸς κοπιάσαντες οὐδὲν ἐλάβομεν
 1	ἐπιστάτα	ἐπιστάτης	NOUN	Nb	Case=Voc|Gender=Masc|Number=Sing	7	vocative	_	Ref=LUKE_5.5
-2	δι’	διά	ADP	R-	_	4	case	_	Ref=LUKE_5.5
+2	διʼ	διά	ADP	R-	_	4	case	_	Ref=LUKE_5.5
 3	ὅλης	ὅλος	ADJ	A-	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	4	amod	_	Ref=LUKE_5.5
 4	νυκτὸς	νύξ	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	5	obl	_	Ref=LUKE_5.5
 5	κοπιάσαντες	κοπιάω	VERB	V-	Aspect=Perf|Case=Nom|Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part|Voice=Act	7	advcl	_	Ref=LUKE_5.5
@@ -14177,7 +14177,7 @@
 1	τίς	τίς	PRON	Pi	Case=Nom|Gender=Fem,Masc|Number=Sing|PronType=Int	0	root	_	Ref=ACTS_10.21
 2	ἡ	ὁ	DET	S-	Case=Nom|Definite=Def|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	Ref=ACTS_10.21
 3	αἰτία	αἰτία	NOUN	Nb	Case=Nom|Gender=Fem|Number=Sing	1	nsubj	_	Ref=ACTS_10.21
-4	δι’	διά	ADP	R-	_	5	case	_	Ref=ACTS_10.21
+4	διʼ	διά	ADP	R-	_	5	case	_	Ref=ACTS_10.21
 5	ἣν	ὅς	PRON	Pr	Case=Acc|Gender=Fem|Number=Sing|PronType=Rel	6	obl	_	Ref=ACTS_10.21
 6	πάρεστε	πάρειμι	VERB	V-	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	3	acl	_	LId=1|Ref=ACTS_10.21
 
@@ -14866,7 +14866,7 @@
 45	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	46	det	_	Ref=ROM_1.4
 46	κυρίου	κύριος	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	22	appos	_	Ref=ROM_1.4
 47	ἡμῶν	ἡμεῖς	PRON	Pp	Case=Gen|Gender=Masc|Number=Plur|Person=1|PronType=Prs	46	det	_	Ref=ROM_1.4
-48	δι’	διά	ADP	R-	_	49	case	_	Ref=ROM_1.5
+48	διʼ	διά	ADP	R-	_	49	case	_	Ref=ROM_1.5
 49	οὗ	ὅς	PRON	Pr	Case=Gen|Gender=Masc|Number=Sing|PronType=Rel	50	obl	_	Ref=ROM_1.5
 50	ἐλάβομεν	λαμβάνω	VERB	V-	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	22	acl	_	Ref=ROM_1.5
 51	χάριν	χάρις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	50	obj	_	Ref=ROM_1.5

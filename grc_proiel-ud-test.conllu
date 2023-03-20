@@ -209,7 +209,7 @@
 21	ὡς	ὡς	ADV	Dq	PronType=Rel	23	advmod	_	Ref=1.22.2
 22	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	23	nsubj	_	Ref=1.22.2
 23	πυνθάνομαι	πυνθάνομαι	VERB	V-	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Mid	27	parataxis	_	Ref=1.22.2
-24	δι’	διά	ADP	R-	_	26	case	_	Ref=1.22.2
+24	διʼ	διά	ADP	R-	_	26	case	_	Ref=1.22.2
 25	οὐδὲν	οὐδείς	DET	Px	Case=Acc|Gender=Neut|Number=Sing	26	det	_	Ref=1.22.2
 26	ἄλλο	ἄλλος	ADJ	Px	Case=Acc|Gender=Neut|Number=Sing	27	obl	_	Ref=1.22.2
 27	ἐγένετο	γίγνομαι	VERB	V-	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	Ref=1.22.2
@@ -1561,7 +1561,7 @@
 3	σὲ	σύ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=2|PronType=Prs	11	obj	_	Ref=1.121.1
 4	γὰρ	γάρ	ADV	Df	_	11	discourse	_	Ref=1.121.1
 5	ἐγὼ	ἐγώ	PRON	Pp	Case=Nom|Gender=Masc|Number=Sing|Person=1|PronType=Prs	11	nsubj	_	Ref=1.121.1
-6	δι’	διά	ADP	R-	_	7	case	_	Ref=1.121.1
+6	διʼ	διά	ADP	R-	_	7	case	_	Ref=1.121.1
 7	ὄψιν	ὄψις	NOUN	Nb	Case=Acc|Gender=Fem|Number=Sing	11	obl	_	Ref=1.121.1
 8	ὀνείρου	ὄνειρος	NOUN	Nb	Case=Gen|Gender=Masc,Neut|Number=Sing	7	nmod	_	Ref=1.121.1
 9	οὐ	οὐ	ADV	Df	Polarity=Neg	10	advmod	_	Ref=1.121.1
@@ -4907,7 +4907,7 @@
 14	ποιεύμενος	ποιέω	VERB	V-	Case=Nom|Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Mid	12	advcl	_	Ref=6.12.1
 15	τῇσι	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Fem|Number=Plur|PronType=Dem	16	det	_	Ref=6.12.1
 16	νηυσὶ	ναῦς	NOUN	Nb	Case=Dat|Gender=Fem|Number=Plur	14	obl	_	Ref=6.12.1
-17	δι’	διά	ADP	R-	_	18	case	_	Ref=6.12.1
+17	διʼ	διά	ADP	R-	_	18	case	_	Ref=6.12.1
 18	ἀλληλέων	ἀλλήλων	PRON	Pc	Case=Gen|Gender=Fem|Number=Plur|PronType=Rcp	14	obl	_	Ref=6.12.1
 19	καὶ	καί	CCONJ	C-	_	12	cc	_	Ref=6.12.1
 20	τοὺς	ὁ	DET	S-	Case=Acc|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	21	det	_	Ref=6.12.1
@@ -4927,7 +4927,7 @@
 34	τοῖσι	ὁ	DET	S-	Case=Dat|Definite=Def|Gender=Masc|Number=Plur|PronType=Dem	35	det	_	Ref=6.12.1
 35	Ἴωσι	Ἴων	NOUN	Nb	Case=Dat|Gender=Masc|Number=Plur	32	iobj	_	Ref=6.12.1
 36	πόνον	πόνος	NOUN	Nb	Case=Acc|Gender=Masc|Number=Sing	32	obj	_	Ref=6.12.1
-37	δι’	διά	ADP	R-	_	38	case	_	Ref=6.12.1
+37	διʼ	διά	ADP	R-	_	38	case	_	Ref=6.12.1
 38	ἡμέρης	ἡμέρα	NOUN	Nb	Case=Gen|Gender=Fem|Number=Sing	32	obl	_	Ref=6.12.1
 
 # sent_id = 70691
@@ -11993,7 +11993,7 @@
 17	καὶ	καί	ADV	Df	_	18	advmod	_	LId=1|Ref=JOHN_6.57
 18	ἐκεῖνος	ἐκεῖνος	ADJ	Pd	Case=Nom|Gender=Masc|Number=Sing	19	nsubj	_	Ref=JOHN_6.57
 19	ζήσει	ζῶ	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin|Voice=Act	0	root	_	Ref=JOHN_6.57
-20	δι’	διά	ADP	R-	_	21	case	_	Ref=JOHN_6.57
+20	διʼ	διά	ADP	R-	_	21	case	_	Ref=JOHN_6.57
 21	ἐμέ	ἐγώ	PRON	Pp	Case=Acc|Gender=Masc|Number=Sing|Person=1|PronType=Prs	19	obl	_	Ref=JOHN_6.57
 
 # sent_id = 22295
@@ -14977,7 +14977,7 @@
 3	ὄνομα	ὄνομα	NOUN	Nb	Case=Nom|Gender=Neut|Number=Sing	8	nsubj:pass	_	Ref=ROM_2.24
 4	τοῦ	ὁ	DET	S-	Case=Gen|Definite=Def|Gender=Masc,Neut|Number=Sing|PronType=Dem	5	det	_	Ref=ROM_2.24
 5	θεοῦ	θεός	NOUN	Nb	Case=Gen|Gender=Masc|Number=Sing	3	nmod	_	Ref=ROM_2.24
-6	δι’	διά	ADP	R-	_	7	case	_	Ref=ROM_2.24
+6	διʼ	διά	ADP	R-	_	7	case	_	Ref=ROM_2.24
 7	ὑμᾶς	ὑμεῖς	PRON	Pp	Case=Acc|Gender=Masc|Number=Plur|Person=2|PronType=Prs	8	obl	_	Ref=ROM_2.24
 8	βλασφημεῖται	βλασφημέω	VERB	V-	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Pass	0	root	_	Ref=ROM_2.24
 9	ἐν	ἐν	ADP	R-	_	11	case	_	Ref=ROM_2.24
